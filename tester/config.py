@@ -1,0 +1,7 @@
+RESIZED_WIDTH = 100
+RESIZED_HEIGHT = 100
+VIDEO_FILE_PATH = r'..\resources\video.avi'
+OUTPUT_PATH = '/tmp'
+RESIZE_URL = 'http://localhost:5000/resize'
+NUM_OF_VIDEO_WORKERS = 2
+NUM_OF_RESIZE_WORKERS = 12
