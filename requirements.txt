@@ -15,4 +15,4 @@ redis==2.10.5
 requests==2.18.3
 rq==0.8.1
 urllib3==1.22
-Werkzeug==0.12.2
+Werkzeug==0.15.3
