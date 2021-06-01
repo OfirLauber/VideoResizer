@@ -14,5 +14,5 @@ python-resize-image==1.1.11
 redis==2.10.5
 requests==2.18.3
 rq==0.8.1
-urllib3==1.22
+urllib3==1.26.5
 Werkzeug==0.12.2
